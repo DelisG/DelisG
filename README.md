@@ -1,11 +1,11 @@
 ### Olá 👋 eu sou Delis!
 <p align='center'>
-  <strong>Desenvolvedora F</strong>, <strong>Estado onde você reside</strong>.
+  <strong>Desenvolvedora Full Stack</strong>, <strong>Recife-PE</strong>.
 </p>
 
 <p align="center">
   💻 Habilidades: <strong>HTML | CSS | JavaScript | PHP | MongoDB | Git </strong><br>
-  🔥 O que estou me aperfeiçoando <strong>React e Node.Js</strong><br>
+  🔥 O que estou me aperfeiçoando: <strong>React e Node.Js</strong><br>
   🎓 O que estou cursando: <strong>Analise e Desenvolvimento de Sistemas</strong>
 </p>
 <p align='center'>  
