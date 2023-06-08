@@ -1,4 +1,4 @@
-### Olá 👋 eu sou Delis!
+<h2 align="center"> Olá :raising_hand: eu sou Delis! <h2>
 <p align='center'>
   <strong>Desenvolvedora Full Stack</strong>, <strong>Recife-PE</strong>.
 </p>
@@ -6,7 +6,8 @@
 <p align="center">
   💻 Habilidades: <strong>HTML | CSS | JavaScript | PHP | MongoDB | Git </strong><br>
   🔥 O que estou me aperfeiçoando: <strong>React e Node.Js</strong><br>
-  🎓 O que estou cursando: <strong>Analise e Desenvolvimento de Sistemas</strong>
+  🎓 O que estou cursando: <strong>Analise e Desenvolvimento de Sistemas pela Uninassau 
+  e Desenvolvimento Full-Stack pelo Senac | Porto Digital</strong>
 </p>
 <p align='center'>  
   <a href="https://www.linkedin.com/in/delis-guerra-46b63614a/">
