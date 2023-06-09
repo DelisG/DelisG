@@ -1,4 +1,4 @@
-<h2 align="center"> Olá :raising_hand: eu sou Delis! <h2>
+<h2 align="center"> Olá 🙋‍♀️ eu sou Delis! <h2>
 <p align='center'>
   <strong>Desenvolvedora Full Stack</strong>, <strong>Recife-PE</strong>.
 </p>
