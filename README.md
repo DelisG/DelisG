@@ -1,8 +1,9 @@
-<h2 align="center"> Olá :blush: eu sou Delis! <h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Fala+galera,+eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Zelda+Lover+hehe&font=Fira%20Code&weight=600&size=32&center=true&color=b58bd3&width=635&height=150&duration=4000&pause=1000">
+</p>
 <p align='center'>
   <strong>Desenvolvedora Full Stack</strong>, <strong>Recife-PE</strong>.
 </p>
-
 <p align="center">
   💻 Habilidades: <strong> HTML | CSS | JavaScript | PHP | MySQL | Git </strong><br>
   🔥 O que estou me aperfeiçoando: <strong>React e Node.Js</strong><br>
