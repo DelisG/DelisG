@@ -6,8 +6,8 @@
   <strong>Desenvolvedora Full Stack</strong>, <strong>Recife-PE</strong>.
 </p>
 <p align="center">
-  💻 Habilidades: <strong> HTML | CSS | JavaScript | PHP | MySQL | Git </strong><br>
-  🔥 O que estou me aperfeiçoando: <strong>React e Node.Js</strong><br>
+  💻 Habilidades: <strong> ReactJS | NodeJS | PHP | SQL | MongoDB | PowerBI </strong><br>
+  🔥 O que estou me aperfeiçoando: <strong>Laravel</strong><br>
   🎓 O que estou cursando: <strong>Analise e Desenvolvimento de Sistemas pela Uninassau </strong>
 </p>
 <p align='center'>  
