@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="200px">
+<!--   <img src="https://media0.giphy.com/media/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="200px"> -->
   <img src="https://readme-typing-svg.demolab.com/?lines=Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;eu+sou+Delis+Guerra!&font=Fira%20Code&weight=600&size=32&center=true&color=dd14ab&width=635&height=150&duration=4000&pause=1000">
 </p>
 <p align='center'>
