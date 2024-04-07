@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/delisssz">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />        
+<img src="https://img.shields.io/badge/-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white&labelColor=black" />
   </a>&nbsp;&nbsp;
   
 </p>
