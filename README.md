@@ -1,12 +1,12 @@
-<img src="assets/banner.png" alt="Delis Guerra, Engenheira de Software Full Stack: Vue.js, C#, .NET" width="100%">
+<!--  <alt="Delis Guerra, Engenheira de Software Full Stack: Vue.js, C#, .NET" width="100%"> -->
+<!--   <img src="https://media0.giphy.com/media/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="200px"> -->
+<img src="https://readme-typing-svg.demolab.com/?lines=Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;eu+sou+Delis+Guerra!&font=Fira%20Code&weight=600&size=32&center=true&color=00006A&width=635&height=150&duration=4000&pause=1000">
+</p>
 
-## Fala, galera! Eu sou a Delis Guerra 👋
+Engenheira de Software em Recife-PE. Trabalho atualmente com **Vue.js**, **C#, .NET e SQL**.
 
-Sou dev full stack em Recife-PE e trabalho com **Vue.js** no front e **C#, .NET e SQL** no back.
 
-Seja bem-vindo(a) ao meu GitHub! Fica à vontade para explorar os projetos. ☕
-
-### Stack
+### Stacks
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-1D3354?style=for-the-badge&logo=vuedotjs&logoColor=F5EDE3)
 ![C#](https://img.shields.io/badge/C%23-1D3354?style=for-the-badge)
@@ -38,7 +38,7 @@ Seja bem-vindo(a) ao meu GitHub! Fica à vontade para explorar os projetos. ☕
 ### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-delisguerra-1D3354?style=for-the-badge&logo=linkedin&logoColor=F5EDE3)](https://www.linkedin.com/in/delisguerra)
-[![E-mail](https://img.shields.io/badge/E--mail-delisemarciano@gmail.com-D9794A?style=for-the-badge&logo=gmail&logoColor=F5EDE3)](mailto:delisemarciano@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-delisgmarques@gmail.com-D9794A?style=for-the-badge&logo=gmail&logoColor=F5EDE3)](mailto:delisgmarques@gmail.com)
 
 ---
 
@@ -48,4 +48,4 @@ Hey there! I'm Delis Guerra, a full stack dev from Recife, Brazil, working with 
 
 **Featured projects:** [Student & Teacher Registry](https://github.com/Delisg/one) (Django REST API) · [To-Do List](https://github.com/Delisg/lista-de-tarefas) (Node.js, MongoDB) · [Courses & Consulting](https://github.com/Delisg/cursos-consultoria) (React) · [E-commerce App](https://github.com/Delisg/e-comerce) (React Native) · [Academic Management](https://github.com/Delisg/gestao-academica) (PHP, MySQL)
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/delisguerra) · [delisemarciano@gmail.com](mailto:delisemarciano@gmail.com)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/delisguerra) · [delisgmarques@gmail.com](mailto:delisgmarques@gmail.com)
