@@ -1,6 +1,6 @@
 <!--  <alt="Delis Guerra, Engenheira de Software Full Stack: Vue.js, C#, .NET" width="100%"> -->
 <!--   <img src="https://media0.giphy.com/media/RLsfgZfNGJ3fzlMXdV/giphy.gif" width="200px"> -->
-<img src="https://readme-typing-svg.demolab.com/?lines=Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;eu+sou+Delis+Guerra!&font=Fira%20Code&weight=600&size=32&center=true&color=00006A&width=635&height=150&duration=4000&pause=1000">
+<img src="https://readme-typing-svg.demolab.com/?lines=Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+eu+sou+Delis+Guerra!+Sejam+bem+vindos+ao+meu+Github!;&font=Fira%20Code&weight=600&size=32&center=true&color=00006A&width=635&height=150&duration=4000&pause=1000">
 </p>
 
 Engenheira de Software em Recife-PE. Trabalho atualmente com **Vue.js**, **C#, .NET e SQL**.
