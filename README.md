@@ -3,11 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+eu+sou+Delis+Guerra!+Sejam+bem+vindos+ao+meu+Github!;&font=Fira%20Code&weight=600&size=32&center=true&color=00006A&width=635&height=150&duration=4000&pause=1000">
 </p>
 
-Engenheira de Software em Recife-PE. Trabalho atualmente com **Vue.js**, **C#, .NET e SQL**.
-
-
-### Stacks
-
+Engenheira de Software em Recife-PE. Trabalhando atualmente com
 ![Vue.js](https://img.shields.io/badge/Vue.js-1D3354?style=for-the-badge&logo=vuedotjs&logoColor=F5EDE3)
 ![C#](https://img.shields.io/badge/C%23-1D3354?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-1D3354?style=for-the-badge&logo=dotnet&logoColor=F5EDE3)
