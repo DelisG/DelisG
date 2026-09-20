@@ -3,13 +3,14 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+Eu+sou+Delis+Guerra!;Sejam+bem+vindos+ao+meu+Github!;Fala+galera,+eu+sou+Delis+Guerra!+Sejam+bem+vindos+ao+meu+Github!;&font=Fira%20Code&weight=600&size=32&center=true&color=00006A&width=635&height=150&duration=4000&pause=1000">
 </p>
 
-Engenheira de Software em Recife-PE. Trabalhando atualmente com
+## Engenheira de Software em Recife-PE
+### Trabalhando atualmente com
 ![Vue.js](https://img.shields.io/badge/Vue.js-1D3354?style=for-the-badge&logo=vuedotjs&logoColor=F5EDE3)
 ![C#](https://img.shields.io/badge/C%23-1D3354?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-1D3354?style=for-the-badge&logo=dotnet&logoColor=F5EDE3)
 ![SQL](https://img.shields.io/badge/SQL-1D3354?style=for-the-badge)
 
-**Também já usei em projetos:**
+### Também já usei em projetos:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-D9794A?style=flat-square&logo=javascript&logoColor=F5EDE3)
 ![Node.js](https://img.shields.io/badge/Node.js-D9794A?style=flat-square&logo=nodedotjs&logoColor=F5EDE3)
@@ -18,8 +19,12 @@ Engenheira de Software em Recife-PE. Trabalhando atualmente com
 ![Python](https://img.shields.io/badge/Python-D9794A?style=flat-square&logo=python&logoColor=F5EDE3)
 ![Django](https://img.shields.io/badge/Django-D9794A?style=flat-square&logo=django&logoColor=F5EDE3)
 ![PHP](https://img.shields.io/badge/PHP-D9794A?style=flat-square&logo=php&logoColor=F5EDE3)
+![Laravel](https://img.shields.io/badge/Laravel-D9794A?style=flat-square&logo=mysql&logoColor=F5EDE3)
 ![MongoDB](https://img.shields.io/badge/MongoDB-D9794A?style=flat-square&logo=mongodb&logoColor=F5EDE3)
 ![MySQL](https://img.shields.io/badge/MySQL-D9794A?style=flat-square&logo=mysql&logoColor=F5EDE3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-D9794A?style=flat-square&logo=mysql&logoColor=F5EDE3)
+![Tailwind](https://img.shields.io/badge/Tailwind-D9794A?style=flat-square&logo=mysql&logoColor=F5EDE3)
+
 
 ### Projetos em destaque
 
